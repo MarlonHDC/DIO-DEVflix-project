@@ -1,7 +1,7 @@
 # Projeto DEVFlix.
 
 ### Neste projeto desenvolvemos um programa de cadastro de séries voltados para desenvolvedores (DEVS), com conteúdos temáticos de aprendizado para quem quer aprender e evoluir na carreira de DEV.
-## O projeto tem o foco central de exercitar a programação orientada a objetos, contudo, aborda diversos outros temas importantes.
+#### O projeto tem o foco central de exercitar a programação orientada a objetos, contudo, aborda diversos outros temas importantes.
 
 ## 🚀 Começando
 
